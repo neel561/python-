@@ -1,4 +1,4 @@
-#random
+random
 Python has a built-in module that you can use to make random numbers.
 The random module has a set of methods:
 
